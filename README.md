@@ -1,5 +1,5 @@
 # draco-asistente-virtual
-Draco ia 
+Draco
 # DRACO asistente
 
 DRACO es un asistente virtual futurista creado en Python con una interfaz estilo inteligencia artificial usando PyQt5.
