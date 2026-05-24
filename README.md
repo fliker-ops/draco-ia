@@ -51,6 +51,6 @@ python draco.py
 
 ## Objetivo
 
-El objetivo de DRACO es crear un asistente visual moderno y futurista inspirado en inteligencias artificiales de películas y videojuegos.
+.
 
 Proyecto en desarrollo.
