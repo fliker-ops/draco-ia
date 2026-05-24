@@ -51,5 +51,5 @@ python draco.py
 
 ## Especificaciones
 
-Este proyecto esta desarrollo.
-Es una asistente basico
+* Este proyecto esta desarrollo
+* Es una asistente basico
