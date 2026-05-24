@@ -45,7 +45,7 @@ python draco.py
 * "abre google"
 * "abre youtube"
 * "busca tecnología"
-* "pon música"
+* "pon (nombre de musica) (artista)"
 * "qué hora es"
 * "salir"
 
